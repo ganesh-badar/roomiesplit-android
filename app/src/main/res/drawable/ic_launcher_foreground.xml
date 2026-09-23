@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (between x:21..87, y:21..87) -->
+    <group>
+        <!-- House roof / gable in Warm Mustard -->
+        <path
+            android:fillColor="#E8A33D"
+            android:pathData="M54,26 L27,47 L33,52 L54,35.5 L75,52 L81,47 Z" />
+
+        <!-- Flat base / walls in Warm Ivory -->
+        <path
+            android:fillColor="#FBF8F2"
+            android:pathData="M35,49 L73,49 L73,78 C73,81 70,83 67,83 L41,83 C38,83 35,81 35,78 Z" />
+
+        <!-- Door cut in Deep Teal -->
+        <path
+            android:fillColor="#1B4B43"
+            android:pathData="M48,63 L60,63 L60,83 L48,83 Z" />
+
+        <!-- Rupee Split Emblem in Mustard and Coral -->
+        <!-- Rupee Symbol Top Horizontal Bars -->
+        <path
+            android:fillColor="#E8A33D"
+            android:pathData="M46,53 L62,53 L62,55.5 L46,55.5 Z" />
+        <path
+            android:fillColor="#E8A33D"
+            android:pathData="M46,57 L60,57 L60,59.5 L46,59.5 Z" />
+
+        <!-- Split / Share indicator circles (Roommates sharing) -->
+        <path
+            android:fillColor="#D8544F"
+            android:pathData="M26,62 A4.5,4.5 0 1,0 26,71 A4.5,4.5 0 1,0 26,62 Z" />
+        <path
+            android:fillColor="#E8A33D"
+            android:pathData="M82,62 A4.5,4.5 0 1,0 82,71 A4.5,4.5 0 1,0 82,62 Z" />
+
+        <!-- Subtle connecting dots -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M31,66.5 L34,66.5 L34,67.5 L31,67.5 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M74,66.5 L77,66.5 L77,67.5 L74,67.5 Z" />
+    </group>
+</vector>
+

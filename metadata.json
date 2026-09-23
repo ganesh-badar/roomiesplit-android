@@ -1,0 +1,6 @@
+{
+  "name": "RoomieSplit",
+  "description": "Expense-splitting app for bachelor flatmates with UPI payments, live chat, and a playful leaderboard dare game system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
